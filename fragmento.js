@@ -3,9 +3,9 @@ class MiComponente123 extends HTMLElement{
     constructor(){
         super();
         this.innerHTML = `
-        <p>Soy Mili</p>
+        <p>La peor pelicula no se me ocurre, la ultima de matrix</p>
         `;
     }
 }
 
-customElements.define("team-123", MiComponente123);
+customElements.define("team-cat", MiComponente123);
